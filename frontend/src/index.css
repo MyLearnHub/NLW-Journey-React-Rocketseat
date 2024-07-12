@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --rdp-accent-color: #bef264;
+}
+
 * {
   min-width: 0;
 }
